@@ -6,3 +6,7 @@ console.log(b);
 
 let c = new Array(4)
 console.log(c);
+
+let arr = [1, 'string', {ad: 'nose'}, [2,4,6]]
+console.log(arr);
+
